@@ -1,0 +1,5 @@
+model\Autor.class
+com\mycompany\plf_libreria\PLF_Libreria.class
+model\Genero.class
+model\Libreria.class
+model\Libro.class
